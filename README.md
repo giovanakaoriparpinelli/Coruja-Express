@@ -73,10 +73,10 @@ O projeto foi construído utilizando uma stack de tecnologias moderna e amplamen
 
 ---
 
-## 👨‍💻 Autores
+## 👨‍💻 Autora
 
 Este projeto foi idealizado e desenvolvido com muito carinho por:
 
 * **Giovana Kaori**
 
-Dedicado com muito amor, ao seu namorado, Vinicius Carneiro Tiburcio Narenti.
+E dedicado com muito amor, ao seu namorado, Vinicius Carneiro Tiburcio Narenti, o qual a incentiva todos os dias e a inspirou para que desevolvesse esse projeto.
